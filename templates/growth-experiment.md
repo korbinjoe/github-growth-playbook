@@ -1,34 +1,36 @@
-# 【项目名】推广实验：【动作】
+# [Project] outreach experiment: [action]
 
-执行日期：  
-记录日期：  
-负责人：
+**English** | [简体中文](../i18n/zh-CN/templates/growth-experiment.md) | [日本語](../i18n/ja/templates/growth-experiment.md) | [Français](../i18n/fr/templates/growth-experiment.md) | [Deutsch](../i18n/de/templates/growth-experiment.md)
 
-## 假设与目标
+Execution date:  
+Record date:  
+Owner:
 
-预计谁会看到、为什么愿意体验、希望观察什么结果？
+## Hypothesis and objective
 
-## 执行动作
+Who should see it, why would they try it, and what result should be observed?
 
-- 渠道与发布链接：
-- 素材与体验入口：
-- 产品版本：
-- 同期其他推广或产品变化：
+## Execution
 
-## 结果
+- Channel and publication URL:
+- Material and trial entry:
+- Product version:
+- Other concurrent outreach or product changes:
 
-| 指标 | 观察窗口 | 结果 | 数据来源与口径 |
+## Results
+
+| Metric | Window | Result | Data source and definition |
 | --- | --- | --- | --- |
-| 访问 | 待填写 | 未知 | 待填写 |
-| 首次成功体验 | 待填写 | 未知 | 待填写 |
-| 持续使用 | 待填写 | 未知 | 待填写 |
-| Star 新增 | 待填写 | 未知 | 待填写 |
-| 分享／教程／贡献 | 待填写 | 未知 | 待填写 |
+| Visits | To fill | Unknown | To fill |
+| First successful trial | To fill | Unknown | To fill |
+| Continued usage | To fill | Unknown | To fill |
+| Added stars | To fill | Unknown | To fill |
+| Shares / tutorials / contributions | To fill | Unknown | To fill |
 
-## 反馈与解释
+## Feedback and interpretation
 
-记录用户原始问题的短摘录或链接，明确哪些结果能归因、哪些只能观察到相关性。
+Record short excerpts or links to original feedback. Identify results that can be attributed and those that merely correlate.
 
-## 下一步
+## Next action
 
-根据证据决定保留、修改或停止哪些动作，避免只重复无效曝光。
+Use the evidence to keep, change, or stop actions; avoid simply repeating ineffective exposure.

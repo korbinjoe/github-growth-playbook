@@ -1,56 +1,54 @@
-# 个人开源项目推广流程
+# Launch and distribution for individual developers
 
-本手册来自[首轮研究](../research/github-personal-developer-growth-2024-2026.md)的分析，尚不是本仓库维护者实际验证过的增长实验。
+**English** | [简体中文](../i18n/zh-CN/playbooks/launch-and-distribution.md) | [日本語](../i18n/ja/playbooks/launch-and-distribution.md) | [Français](../i18n/fr/playbooks/launch-and-distribution.md) | [Deutsch](../i18n/de/playbooks/launch-and-distribution.md)
 
-## 1. 先准备能够验证价值的材料
+This playbook is an interpretation of the [first research snapshot](../research/github-personal-developer-growth-2024-2026.md), not a set of experiments already validated by this repository's maintainer.
 
-- 一句话说明为谁解决什么问题。
-- 真实输入、关键操作和输出结果。
-- 前后对比图或简短演示视频。
-- 在线体验、安装包或最短使用步骤。
-- 可直接使用的示例以及当前限制。
+## 1. Make value verifiable
 
-检查标准：陌生人能否理解是否对自己有用，并完成首次体验。
+Prepare a one-sentence need, real input and output, a before/after image or brief demo, trial access or short installation steps, a usable example, and current limitations.
 
-## 2. 在两个相关社区获取第一批反馈
+Check whether a stranger can understand the benefit and complete the first trial.
 
-社区跟着目标用户选择。发布演示，认真回答使用问题，记录实际任务与反复出现的障碍。
+## 2. Obtain feedback in two relevant communities
 
-优先观察成功使用、主动分享、教程和贡献。Star 单独记录，不代替用户数。
+Choose communities around intended users. Publish a demo, answer usage questions, and record actual tasks and recurring obstacles.
 
-## 3. 有真实使用后发布复盘
+Watch successful trials, voluntary sharing, tutorials, and contributions. Record stars separately from users.
 
-建议结构：需求来源 → 第一批反馈 → 关键取舍与失败 → 具体结果 → 可迁移经验 → 体验入口。
+## 3. Publish a retrospective after real usage
 
-结果写明口径：统计日期、时间窗口、累计或新增、下载或用户、作者自述或独立记录。没有数据时明确保留未知项。
+Use this structure: original need → first feedback → tradeoffs and failures → concrete results → transferable lessons → trial access.
 
-## 4. 为第三方准备不同素材
+For results, state the date, window, totals versus additions, downloads versus users, and reported versus independently recorded evidence. Keep unknowns explicit.
 
-| 对象 | 素材 |
+## 4. Prepare material for others
+
+| Audience | Material |
 | --- | --- |
-| 编辑、周刊 | 短介绍、对比图或视频、体验链接、适用人群、限制、作者背景 |
-| 教程作者 | 最短步骤、可用示例、常见问题、清楚的版本信息 |
-| 创作者 | 模板、模型或主题、制作教程、现成作品合集 |
-| 集成者 | 接口、兼容说明、示例工程、扩展文档 |
+| Editors and newsletters | Short introduction, comparison or video, trial link, audience, limitations, creator background |
+| Tutorial authors | Short steps, working examples, common issues, clear version information |
+| Creators | Templates, models or themes, making tutorials, ready-made collections |
+| Integrators | Interfaces, compatibility notes, sample projects, extension documentation |
 
-## 5. 记录一次推广实验
+## 5. Record an outreach experiment
 
-使用[实验模板](../templates/growth-experiment.md)，保留原假设、发布时间、入口链接和结果。访问、成功体验、持续使用与 Star 分开记录；无法归因时不要将增长全算在一次推广上。
+Use the [experiment template](../templates/growth-experiment.md). Preserve the original hypothesis, publication date, entry links, and results. Track visits, successful trials, continued use, and stars separately. Do not attribute all growth to one action without evidence.
 
-## 自荐文案
+## Submission copy
 
-> 我做了一个开源的【工具类型】，帮助【目标用户】解决【具体问题】。
+> I built an open-source [tool type] to help [audience] solve [specific problem].
 >
-> 它可以【一个可验证的改善】。真实演示／前后对比：【链接】。
+> It delivers [verifiable improvement]. Real demo / comparison: [link].
 >
-> 体验入口：【链接】；项目地址：【链接】。
+> Try it: [link]. Repository: [link].
 >
-> 当前支持【范围】，限制是【限制】。欢迎反馈实际使用的问题。
+> It currently supports [scope], with [limitations]. Feedback from actual use is welcome.
 
-## 复盘标题思路
+## Retrospective title ideas
 
-- 我为解决【具体问题】做了一个开源工具，第一批用户教会了我什么
-- 从发布到有人真正使用：这个项目的【时间跨度】复盘
-- 【具体能力】怎样做成可用产品：需求、取舍和失败尝试
+- I built an open-source tool for [problem]: what the first users taught me
+- From launch to real usage: a [time span] retrospective
+- Making [capability] usable: needs, tradeoffs, and failed attempts
 
-标题与内容保持证据对应；案例中的爆发幅度不能作为实验的保底预期。
+Match titles to evidence. Breakout growth in a case study is not a guaranteed experiment outcome.

@@ -1,43 +1,45 @@
-# BettaFish：社区认可到个人复盘传播
+# BettaFish: community recognition to retrospective-driven distribution
 
-最后整理：2026-10-10  
-项目：[666ghj/BettaFish](https://github.com/666ghj/BettaFish)  
-作者：BaiFu／郭航江；[公开主页](https://github.com/666ghj)标注上海及大陆高校背景。  
-观察阶段：个人起步阶段。后续 MiroFish 已有公司支持和孵化，应分开比较。
+**English** | [简体中文](../i18n/zh-CN/cases/bettafish.md) | [日本語](../i18n/ja/cases/bettafish.md) | [Français](../i18n/fr/cases/bettafish.md) | [Deutsch](../i18n/de/cases/bettafish.md)
 
-## 传播时间线
+Compiled: 2026-10-10  
+Project: [666ghj/BettaFish](https://github.com/666ghj/BettaFish)  
+Author: BaiFu / Guo Hangjiang; the [public profile](https://github.com/666ghj) lists Shanghai and mainland university affiliations.  
+Stage: individual origin. Later MiroFish development had company support and incubation and should be compared separately.
 
-以下推广顺序和增长数字来自[作者在 Linux Do 发布的复盘](https://linux.do/t/topic/1697717)，没有独立渠道审计。
+## Timeline
 
-| 阶段 | 作者回顾的事件 |
+The sequence and figures below come from the [author's Linux Do retrospective](https://linux.do/t/topic/1697717), without an independent channel audit.
+
+| Stage | Author's account |
 | --- | --- |
-| 初始基础 | 沿用旧项目仓库，起初已有两百多 Star |
-| 第一轮推广 | 向公众号、开源周刊投稿多数未获回应；随后在 B 站、小红书、Linux Do 自荐，逐步增长 |
-| 阶段性认可 | 约一个月后达到 1,000 Star |
-| 第二轮内容 | 发布《1K+ Star 的开源项目能给一个大学生带来什么》 |
-| 第三方接力 | 公众号“why技术”解读，随后更多创作者转发；作者报告爆发阶段一周增加约 2 万 Star |
+| Starting base | Reused an older repository with more than 200 stars. |
+| First outreach | Most newsletter and public-account submissions received no response. Posts on Bilibili, Xiaohongshu, and Linux Do gradually attracted attention. |
+| Early recognition | Reached roughly 1,000 stars after about a month. |
+| Second piece | Published a retrospective about what a 1,000-star project could bring a university student. |
+| Amplification | The WeChat public account why技术 discussed it; more creators reposted. The author reported roughly 20,000 additional stars during one breakout week. |
 
-## 分析推断
+## Inference
 
-个人复盘把工具能力与作者经历连接起来：技术读者能够了解开发方法，泛读者能够理解学生通过作品获得机会的经历。第三方因此有了更丰富的介绍角度。
+The retrospective connected a working product with its creator's experience. Technical readers could learn about development, while broader readers could understand a student's opportunities through building. That gave third parties more angles for coverage.
 
-第一轮推广积累的用户反馈、运行结果和经历，又为复盘提供了证据。这个案例值得学习的是如何积累内容并降低他人介绍成本，增长幅度仍有不可控因素。
+Feedback, results, and experiences from early outreach supported the story. The reusable lesson is to accumulate evidence and make the project easier to explain; the size of amplification remains partly outside the author's control.
 
-## 可复用动作
+## Reusable actions
 
-- 展示可运行成果，参与目标社区讨论。
-- 保留需求来源、取舍、失败尝试和真实反馈。
-- 获得首批使用后，写一篇带结果证据的复盘。
-- 准备可引用的短介绍和演示，方便第三方接力。
+- Show a working result and engage with the relevant community.
+- Preserve the original need, tradeoffs, failures, and genuine feedback.
+- Publish an outcome-backed retrospective after initial adoption.
+- Provide a short introduction and demo that others can reference.
 
-## 待核验
+## Open questions
 
-- 具体哪些转发对应最大访问增量？
-- 访问后有多少人成功运行并持续使用？
-- 上榜前后的自然访问与外部渠道访问分别是多少？
+- Which reposts corresponded to the largest traffic increases?
+- How many visitors successfully ran the project and kept using it?
+- How did organic and referral traffic differ before and after Trending?
 
-## 来源
+## Sources
 
-- [作者复盘原帖，2026 年 3 月发布，回顾此前经历](https://linux.do/t/topic/1697717)
-- [作者 GitHub 主页](https://github.com/666ghj)
-- [完整研究](../research/github-personal-developer-growth-2024-2026.md)
+- [Author retrospective, published in March 2026 and recalling earlier events](https://linux.do/t/topic/1697717)
+- [Author profile](https://github.com/666ghj)
+- [Research snapshot](../research/github-personal-developer-growth-2024-2026.md)

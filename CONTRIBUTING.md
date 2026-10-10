@@ -1,25 +1,31 @@
-# 补充与修订规范
+# Contribution and correction guidelines
 
-欢迎补充项目线索、传播时间线、作者复盘和真实推广实验，也欢迎纠正现有记录。
+**English** | [简体中文](i18n/zh-CN/CONTRIBUTING.md) | [日本語](i18n/ja/CONTRIBUTING.md) | [Français](i18n/fr/CONTRIBUTING.md) | [Deutsch](i18n/de/CONTRIBUTING.md)
 
-## 新增案例
+Contribute project leads, distribution timelines, author retrospectives, real experiments, or corrections.
 
-1. 复制 [案例模板](templates/case-study.md) 到 `cases/<project>.md`。
-2. 每个关键日期、数字和传播事件附直接来源。
-3. 列明作者身份依据；没有证据时明确标注待核验。
-4. 区分事实、作者自述、第三方报道和分析推断。
-5. 在 README 添加入口。
+## Add a case
 
-## 数据与来源
+1. Copy the [case-study template](templates/case-study.md) into `cases/<project>.md`.
+2. Attach direct sources to key dates, figures, and distribution events.
+3. State the evidence for author location; mark unverified claims explicitly.
+4. Separate public records, author reports, third-party reporting, and inference.
+5. Add a README entry and update the corresponding language editions.
 
-- 写明统计日期和时间窗口，累计与新增分开。
-- Trending 全语言榜与语言榜分开。
-- 下载、访问、成功体验、用户数和 Star 分开。
-- 优先链接作者原帖、仓库发布记录和实际报道。
-- 转载需要注明归属；仅转述不能升级为独立验证。
-- 保存短摘录和自行整理的分析，通过链接引用原始文章和媒体。
-- 仅使用公开资料或已获授权的数据；不要提交访问凭证和用户私人信息。
+## Figures and sources
 
-## 修订与实验
+- State the observation date and window; separate totals and additions.
+- Distinguish all-language Trending from language-specific rankings.
+- Separate downloads, visits, successful trials, users, and stars.
+- Prefer original posts, repository releases, and actual coverage.
+- Attribute reposts; a restatement is not independent verification.
+- Use short excerpts and your own analysis; link to original articles and media.
+- Use public or authorized data. Do not submit credentials or private user information.
 
-已有案例更新时记录变化与依据，保留历史快照日期。实际推广使用 [实验模板](templates/growth-experiment.md)，不要将未经执行的建议写成已验证经验。
+## Revisions, experiments, and languages
+
+Keep historical snapshot dates and record changes with evidence. Use the [experiment template](templates/growth-experiment.md) for actual outreach; do not describe untested recommendations as validated results.
+
+English is the default edition. Corresponding files under `i18n/zh-CN/`, `i18n/ja/`, `i18n/fr/`, and `i18n/de/` use the same relative paths. Preserve URLs, dates, numerical meanings, evidence labels, and uncertainty when translating. The language selector must link to the same document in all five editions.
+
+Contributions of original documentation are submitted under the repository's [CC BY 4.0 license](LICENSE). Third-party material remains subject to its own terms; see [NOTICE](NOTICE.md).

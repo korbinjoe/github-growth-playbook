@@ -1,274 +1,115 @@
-# GitHub 中国大陆开发者项目增长研究：最近两年案例与个人开发者传播路径
+# GitHub growth research: mainland-China creators and individual-developer distribution
 
-整理日期：2026-10-10  
-观察范围：2024-10-10 至 2026-10-10  
-重点：个人开发者项目如何获得首批用户、出现传播转折，以及哪些营销动作值得复用。
+**English** | [简体中文](../i18n/zh-CN/research/github-personal-developer-growth-2024-2026.md) | [日本語](../i18n/ja/research/github-personal-developer-growth-2024-2026.md) | [Français](../i18n/fr/research/github-personal-developer-growth-2024-2026.md) | [Deutsch](../i18n/de/research/github-personal-developer-growth-2024-2026.md)
 
-## 核心判断
+Compiled: 2026-10-10  
+Window: 2024-10-10 to 2026-10-10  
+Focus: first users, distribution turning points, and reusable outreach actions.
 
-个人项目值得借鉴的一条增长路径是：**先在相关社区获得第一批认可，再通过可展示的成果、作者复盘或扩展生态，让第三方接力传播。**
+## Main finding
 
-本次传播记录较完整的四个案例是 BettaFish、PDFMathTranslate、BongoCat 和 Claude Code Router。它们分别体现了四种传播动力：
+A useful pattern is **recognition in a relevant community, followed by third-party amplification through visible results, an author retrospective, or an extensible ecosystem**.
 
-| 案例 | 传播动力 | 第三方为什么愿意介绍 |
+| Case | Distribution incentive | What others can explain |
 | --- | --- | --- |
-| BettaFish | 产品成果与作者经历形成的复盘 | 有实际成果支撑的学生成长故事和 AI 开发经验 |
-| PDFMathTranslate | 明确的论文阅读痛点与排版对比 | 对目标读者有用，效果容易展示，介绍文章容易制作 |
-| BongoCat | 可视化桌面体验与用户创作 | 产品好看、好理解，模型和皮肤提供后续内容 |
-| Claude Code Router | 热门产品生态中的配套需求 | 用户已经认识上游产品，解决方案容易被理解和搜索 |
+| BettaFish | Product results and a creator retrospective | A student's experience and AI-assisted development lessons backed by outcomes |
+| PDFMathTranslate | A specific paper-reading problem and layout comparisons | A useful tool with easily demonstrated results |
+| BongoCat | A visible desktop experience and user creations | An understandable product with ongoing models and skins |
+| Claude Code Router | A supporting need in a popular ecosystem | A solution around a product users already know |
 
-对 AI 产品开发者，优先建议组合 **PDFMathTranslate 的演示方式**与 **BettaFish 的复盘方式**：先让人直接验证价值，再让人理解作者解决问题的过程。
+For AI builders, combine PDFMathTranslate's demonstrations with BettaFish's retrospectives: make value verifiable, then explain how the problem was solved.
 
-## 研究口径与证据边界
+## Scope and evidence
 
-1. **时间窗口指传播发生的时间，不限定仓库创建时间。** 老项目在窗口内出现明显传播或持续增长，也纳入观察。
-2. **累计 Star 不等于窗口内新增 Star，也不等于用户量。** 下表数字是本次查询时的累计约数，部分来源有缓存，后续会变化。
-3. **中文 README 不足以证明作者来自中国大陆。** 优先采用作者公开主页的所在地、大学背景、团队官方资料；证据不足的项目单独列出。
-4. **个人起步不等于后来始终由一个人开发。** 社区贡献和公司孵化应与个人冷启动阶段分开理解。
-5. **上榜记录能证明热度，不能单独证明流量来源。** 全语言榜与语言分类榜分别标注，避免混用。
-6. **事实、作者自述和分析推断分别表达。** 作者报告的增长数字没有独立渠道审计；公开时间线也不能精确归因某条帖子带来了多少 Star。
+- The window concerns distribution, not repository creation. Older projects may qualify.
+- Star counts below are approximate cumulative snapshots, not two-year additions or user counts. Cached pages can differ.
+- Chinese documentation does not establish mainland-China authorship. Public location, university affiliation, or official team information is recorded separately.
+- Separate an individual origin from later community contributions and company incubation.
+- Distinguish all-language Trending from language rankings. A ranking does not establish acquisition channels.
+- Separate public records, author reports, and inference. The reported growth is not independently channel-audited, and chronology does not prove causation.
 
-## 一、项目地图
+## Project map
 
-### 1. 有大陆作者或团队依据的案例
+### Projects with mainland creator or team evidence
 
-| 项目 | 作者或团队依据 | 累计 Star 约数 | 窗口内记录与研究价值 |
+| Project | Creator evidence | Approx. total stars | Relevant record |
 | --- | --- | ---: | --- |
-| [BettaFish](https://github.com/666ghj/BettaFish) | [BaiFu／郭航江，公开主页标注上海及大陆高校背景](https://github.com/666ghj) | 4.24 万 | 作者自述：从社区推广积累到约 1,000 Star，个人复盘被第三方转发后，爆发阶段一周增加约 2 万 Star。个人起步传播链较完整。 |
-| [Claude Code Router](https://github.com/musistudio/claude-code-router) | [musistudio，公开主页标注杭州](https://github.com/musistudio) | 3.76 万 | 2025 年 2 月有作者早期自荐帖，5 月底重新设计，6—7 月集中上榜；6 月 26 日达到 Trending 全语言第 3。 |
-| [BongoCat](https://github.com/ayangweb/BongoCat) | [ayangweb，公开主页标注青海](https://github.com/ayangweb) | 2.39 万 | 2025 年 4 月 V2EX 作者介绍、5 月阮一峰周刊投稿入选、6 月自定义模型发布；2025 年多次进入 TypeScript 趋势榜。 |
-| [PDFMathTranslate／pdf2zh](https://github.com/PDFMathTranslate/PDFMathTranslate) | [Byaidu，公开主页标注电子科技大学背景](https://github.com/Byaidu)；后续社区共建 | 3.73 万 | 2024 年 11 月作者自荐并获得小众软件编辑报道；2025 年论文报告超过 22.2 万次下载。既有传播记录，也有作者报告的使用量证据。 |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | [CherryHQ，上海团队](https://github.com/CherryHQ) | 5.25 万 | 项目早于窗口；创始人访谈介绍记录了 DeepSeek 热潮带来用户涌入。适合观察小团队怎样承接热点并组织社区共建。 |
-| [小智 AI／xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 黄冠／虾哥，深圳十方融海；见[官方介绍](https://www.tenclass.com/news/news240/) | 3.06 万 | 2025 年 1 月 11 日登上 Trending 全语言第 1。作者故事具有参考价值，但已有团队和企业背景，应按硬件生态案例理解。 |
-| [MinerU](https://github.com/opendatalab/MinerU) | [上海 AI 实验室 OpenDataLab 团队](https://opendatalab.github.io/index.html) | 8.13 万 | 老项目持续扩散；2024 年 11 月多次进入 Trending 全语言前 3。适合研究下游集成带来的分发入口。 |
-| [LLaMA-Factory](https://github.com/hiyouga/LlamaFactory) | [郑耀威，公开主页标注北京](https://github.com/hiyouga) | 7.54 万 | 个人发起、长期增长的工具，2026 年 2 月仍进入 Python 趋势榜。不应描述为窗口内才诞生的项目。 |
-| [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | DeepSeek 团队 | 9.19 万 | 2025 年 1 月发布。权重、技术报告、评测结果与蒸馏模型提供讨论和试用材料；发布组织方式可学习，研发规模难以由个人复制。 |
+| [BettaFish](https://github.com/666ghj/BettaFish) | [BaiFu / Guo Hangjiang: Shanghai and mainland university affiliations](https://github.com/666ghj) | 42.4k | Author reports community growth to roughly 1,000, then about 20,000 additional stars in one breakout week after a retrospective was amplified. |
+| [Claude Code Router](https://github.com/musistudio/claude-code-router) | [musistudio: Hangzhou](https://github.com/musistudio) | 37.6k | Early post in February 2025; redesign in late May; concentrated June–July coverage; all-language Trending rank 3 on June 26. |
+| [BongoCat](https://github.com/ayangweb/BongoCat) | [ayangweb: Qinghai](https://github.com/ayangweb) | 23.9k | V2EX introduction in April 2025, author-submitted newsletter inclusion in May, custom models in June; repeated TypeScript Trending appearances. |
+| [PDFMathTranslate / pdf2zh](https://github.com/PDFMathTranslate/PDFMathTranslate) | [Byaidu: UESTC affiliation](https://github.com/Byaidu); later community contributions | 37.3k | Author submission and editorial coverage in November 2024; a 2025 paper reported over 222,000 downloads. |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | [CherryHQ: Shanghai team](https://github.com/CherryHQ) | 52.5k | Predates the window; founder interview notes describe an influx during the DeepSeek wave. Useful small-team comparison. |
+| [XiaoZhi AI / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | Huang Guan / Xia Ge; Shenzhen Tenclass, [official introduction](https://www.tenclass.com/news/news240/) | 30.6k | All-language Trending rank 1 on January 11, 2025. Has team/company support; study as a hardware ecosystem. |
+| [MinerU](https://github.com/opendatalab/MinerU) | [Shanghai AI Laboratory's OpenDataLab](https://opendatalab.github.io/index.html) | 81.3k | Older project with repeated all-language top-3 appearances in November 2024; downstream integrations offer distribution routes. |
+| [LLaMA-Factory](https://github.com/hiyouga/LlamaFactory) | [Yaowei Zheng: Beijing](https://github.com/hiyouga) | 75.4k | Individual origin and long-term growth; Python Trending in February 2026. It was not newly created within this window. |
+| [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | DeepSeek team | 91.9k | Released in January 2025 with weights, a technical report, evaluation results, and distilled models. Release packaging is more transferable than its R&D scale. |
 
-上榜与发布依据：[Claude Code Router 历史](https://www.star-history.com/musistudio/claude-code-router/)、[BongoCat 历史](https://www.star-history.com/ayangweb/bongocat/)、[小智 AI 历史](https://www.star-history.com/78/xiaozhi-esp32/)、[MinerU 历史](https://www.star-history.com/opendatalab/mineru/)、[LLaMA-Factory 历史](https://www.star-history.com/hiyouga/llamafactory/)、[DeepSeek 官方更新记录](https://api-docs.deepseek.com/zh-cn/updates/)。BettaFish 与 PDFMathTranslate 的传播依据见下文。
+Ranking and release records: [CCR](https://www.star-history.com/musistudio/claude-code-router/), [BongoCat](https://www.star-history.com/ayangweb/bongocat/), [XiaoZhi](https://www.star-history.com/78/xiaozhi-esp32/), [MinerU](https://www.star-history.com/opendatalab/mineru/), [LLaMA-Factory](https://www.star-history.com/hiyouga/llamafactory/), [DeepSeek updates](https://api-docs.deepseek.com/zh-cn/updates/).
 
-### 2. 高热度、但大陆作者所在地证据不足的项目
+### Popular projects with insufficient mainland-location evidence
 
-以下项目适合研究产品和传播机制，暂不纳入严格的大陆作者名单。累计热度本身不能证明它们全部在本次窗口内爆发。
+These are useful product examples, not verified entries in the mainland-author cohort. Cumulative popularity alone does not establish a breakout during the window.
 
-| 项目 | 累计 Star 约数 | 已观察到的产品特点 | 可研究的增长机制（推断） |
+| Project | Approx. total stars | Observed product | Potential mechanism: inference |
 | --- | ---: | --- | --- |
-| [CC Switch](https://github.com/farion1231/cc-switch) | 14.19 万 | 将 AI 编程工具的供应商配置和切换做成图形界面 | 热门上游生态加高频配套需求，降低配置成本 |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 12.93 万 | 从一个主题串起文案、配音、素材、字幕和视频生成 | 最终产物容易演示，流程完整，方便教程作者介绍 |
-| [Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer) | 3.72 万 | 提示词改写、测试和结果对比；见[作者产品页](https://always200.com/) | 把抽象能力变成用户能直接比较的结果 |
-| [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 3.22 万 | 在上游项目基础上适配中文市场、数据和模型 | 深入业务流程的本地化可能打开新的受众；介绍时应明确上游来源 |
+| [CC Switch](https://github.com/farion1231/cc-switch) | 141.9k | Graphical provider configuration and switching for AI coding tools | Frequent supporting needs in a popular ecosystem |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 129.3k | Topic-to-video workflow spanning copy, narration, assets, and subtitles | A complete, demonstrable result suited to tutorials |
+| [Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer) | 37.2k | Prompt rewriting, testing, and comparison; [creator site](https://always200.com/) | Make an abstract capability directly comparable |
+| [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 32.2k | Adapts an upstream project to Chinese markets, data, and models | Localization of real workflows may reach new users; credit upstream |
 
-MoneyPrinterTurbo 有窗口内的阶段性热度记录：2025 年 5 月及 9—10 月出现 Trending 全语言第 1。[历史记录](https://www.star-history.com/harry0703/moneyprinterturbo/)
+MoneyPrinterTurbo has all-language rank-1 records in May and September–October 2025. [History](https://www.star-history.com/harry0703/moneyprinterturbo/)
 
-### 3. 个人起步后进入孵化阶段：MiroFish
+### MiroFish: later incubation
 
-[MiroFish](https://github.com/666ghj/MiroFish) 与 BettaFish 出自同一作者，公开主页显示累计约 7.75 万 Star。但作者复盘明确说明，MiroFish 的开发已有盛大支持，随后进入投资与孵化阶段。因此，研究个人冷启动时应重点分析 BettaFish；MiroFish 更适合研究前一项目形成的声誉、资源与后续产品如何衔接。[作者主页](https://github.com/666ghj)、[作者复盘](https://linux.do/t/topic/1697717)
+[MiroFish](https://github.com/666ghj/MiroFish), by the BettaFish creator, had roughly 77.5k stars in the [profile snapshot](https://github.com/666ghj). The [author retrospective](https://linux.do/t/topic/1697717) describes Shanda support during development and later investment/incubation. For individual cold starts, analyze BettaFish's early stage; MiroFish is useful for studying how reputation and resources carry into a later product.
 
-## 二、个人开发者传播路径深挖
+## Four individual-developer paths
 
-### 1. BettaFish：第一批社区认可，成为第二轮复盘的素材
+### BettaFish
 
-#### 公开记录与作者自述
+The author's March 2026 retrospective recalls an older repository with over 200 stars, largely unanswered media submissions, community posts, roughly 1,000 stars after a month, a Xiaohongshu retrospective, coverage by why技术, and further reposts. The roughly 20,000-star breakout week is author-reported. [Original post](https://linux.do/t/topic/1697717)
 
-作者在 2026 年 3 月发布的复盘中回顾了此前的推广过程：项目沿用旧仓库，起初已有两百多 Star；给公众号和开源周刊投稿多数没有回应，随后在 B 站、小红书和 Linux Do 自荐，逐步积累关注。约一个月后达到 1,000 Star，作者发布《1K+ Star 的开源项目能给一个大学生带来什么》。公众号“why技术”发现并解读这篇文章，随后更多大 V 转发。作者报告爆发阶段一周增加约 2 万 Star。[作者原帖](https://linux.do/t/topic/1697717)
+Inference: early outcomes gave a personal story evidence; technical readers could learn development methods while broader readers could understand the creator's experience. Preserve needs, tradeoffs, failures, and feedback, then publish a genuine retrospective with a reusable demo. Do not treat lucky amplification as a guaranteed result. [Detailed case](../cases/bettafish.md)
 
-传播链可以整理为：
+### PDFMathTranslate
 
-**已有基础的仓库 → 社区展示与反馈 → 约 1,000 Star → 个人复盘 → 公众号解读及更多转发 → 大规模关注。**
+Author submission on November 6, 2024 was followed by editorial coverage on November 19. Later access expanded through packages, GUI, and Zotero; the July 2025 paper reported over 222,000 downloads, not unique users. [Submission](https://meta.appinn.net/t/topic/62859/1), [coverage](https://www.appinn.com/pdf-math-translate/), [documentation](https://github.com/PDFMathTranslate/PDFMathTranslate/blob/main/docs/README_zh-CN.md), [paper](https://arxiv.org/abs/2507.03009)
 
-这些数字来自作者自述，不是经过独立审计的获客数据；它们提供的是传播顺序和关键转折线索。
+Inference: visible preservation of formulas, charts, and layout reduced editorial explanation costs for an identifiable audience. Early coverage still noted the command-line interface. Provide comparisons, trial access, audience, limitations, and contact details, then improve first use. For AI products, demonstrate intact tables, traceable citations, or usable output files. [Detailed case](../cases/pdfmathtranslate.md)
 
-#### 分析：为什么复盘能够扩大受众
+### BongoCat
 
-我的判断是，复盘将产品能力与作者经历连接了起来。技术读者可以了解 AI 协作开发的方法，泛读者可以看到学生通过作品获得机会的经历。第三方因而获得了一个比单纯介绍工具更丰富的选题。
+The author introduced the cross-platform pet on April 22, 2025; author-submitted newsletter inclusion followed on May 9; custom-model importing with tutorials, video, and a collection was announced June 4. It was inspired by Bongo Cat Mver. [Introduction](https://www.v2ex.com/t/1127289), [newsletter](https://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html), [update](https://v2ex.com/t/1136196)
 
-已有的 Star、使用反馈和运行结果，又为故事提供了具体证据。第一次推广积累的经历和问题，成为第二次传播的内容。
+Inference: communities and editorial curation helped discovery; later user creations provided new content. Custom models were a later stage, not an established initial trigger. Ship examples, tutorials, creator assets, and ready-made collections with updates. Sharing requires results users actually want to show. [Detailed case](../cases/bongocat.md)
 
-#### 可借鉴动作
+### Claude Code Router
 
-- 先展示可运行成果，并参与目标社区的讨论。
-- 保留需求来源、关键取舍、失败尝试和用户反馈。
-- 获得第一批真实使用后，发布带证据的复盘。
-- 同时准备演示与简短介绍，让第三方容易引用和介绍。
+The February 25, 2025 exploration linked the early `claude-code-reverse` project. The author described a late-May redesign; June–July Trending followed, including all-language rank 3 on June 26. [Early post](https://www.v2ex.com/t/1114144), [retrospective](https://github.com/musistudio/claude-code-router/blob/main/blog/zh/项目初衷及原理.md), [history](https://www.star-history.com/musistudio/claude-code-router/)
 
-复盘主题可以是“做这个项目后发生了什么”，但应以真实变化为基础，避免把幸运的放大量包装成必然可复制的结果。
+Inference: an already-familiar upstream product supplied demand for model choice, configuration, and cost improvements. Months of iteration and ongoing comment responses matter alongside timing. Show a concrete improvement in a familiar workflow, align terminology with user demand, and improve usability from feedback. [Interactions](https://global.v2ex.com/t/1114144), [detailed case](../cases/claude-code-router.md)
 
-### 2. PDFMathTranslate：作者自荐到编辑报道的明确接力
+## Supporting lessons
 
-#### 公开时间线
+- **Cherry Studio:** interview notes and a timeline describe the DeepSeek user influx; the full audio was not checked line by line. Its developer co-creation/rewards program began tracking in Q3 2025. Inference: make first use easy during a wave, then give contributors clear tasks and recognition. [Interview](https://podcasts.apple.com/ma/podcast/cherry-studio-%E7%8E%8B%E6%96%B0%E9%93%AD-2-%E4%B8%AA%E4%BA%BA-github-42k-%E6%98%9F-%E4%BB%A3%E7%A0%81%E8%B4%A1%E7%8C%AE%E7%AC%AC%E4%B8%80%E5%90%8D%E6%98%AF-claude/id1671502201?i=1000756144697&l=ar), [program](https://github.com/CherryHQ/cherry-studio#-developer-co-creation-program)
+- **XiaoZhi AI:** firmware, demos, tutorials, and board support provide ecosystem material. A June 2025 joint event with Seeed Studio is documented. Inference: vendors, makers, and tutorial authors each gain something to demonstrate. This is a company-backed comparison. [Joint event](https://www.tenclass.com/new_pages/det_news_273.html)
+- **MinerU:** RAGFlow's October 23, 2025 release added MinerU PDF parsing. This proves downstream adoption, not acquisition volume. Inference: interfaces, plugins, samples, and compatibility notes can make integrators ongoing distribution partners. [Release notes](https://github.com/infiniflow/ragflow/blob/main/docs/release_notes.md)
 
-| 时间 | 动作与来源 |
-| --- | --- |
-| 2024-11-06 | Byaidu 在小众软件论坛自荐，介绍论文 PDF 翻译、排版保留能力，并提供演示和在线体验。[自荐帖](https://meta.appinn.net/t/topic/62859/1) |
-| 2024-11-19 | 小众软件发布正式介绍，明确注明来自开发者自荐，并展示翻译前后的效果。[编辑报道](https://www.appinn.com/pdf-math-translate/) |
-| 后续版本 | 社区补充 Windows 打包、图形界面和 Zotero 等使用入口。[官方文档](https://github.com/PDFMathTranslate/PDFMathTranslate/blob/main/docs/README_zh-CN.md) |
-| 2025-07 | 项目论文报告已有超过 22.2 万次下载。下载口径为作者报告，不能直接等同于独立用户数。[论文](https://arxiv.org/abs/2507.03009) |
+## Execution
 
-#### 分析：把技术能力变成可直接报道的结果
+1. Make value verifiable with a real demo, short entry path, example, and limits.
+2. Seek first usage in two relevant communities; record successful trials, tasks, recurring questions, shares, tutorials, and contributions.
+3. Publish an evidence-backed retrospective covering needs, feedback, tradeoffs, failures, outcomes, and transferable lessons.
+4. Give editors and ecosystem partners the material they need; maintain installation and first-use quality after attention arrives.
 
-“翻译后公式、图表、排版还在”可以用一张对比图解释。目标读者也明确：学生、科研人员和论文读者。我的判断是，这降低了编辑理解产品、制作文章和向读者解释价值的成本。
+These are recommendations, not a record that every author used every step. See the [playbook and copy templates](../playbooks/launch-and-distribution.md), [case template](../templates/case-study.md), and [experiment template](../templates/growth-experiment.md).
 
-早期报道仍提醒它是命令行工具。这说明获得关注后，安装包、文档和工作流集成仍是承接使用的重要工作。不能仅凭后续累计热度，精确归因这篇报道贡献了多少增长。
+## Unresolved attribution
 
-#### 可借鉴动作
+BettaFish's figures are mainly author-reported. The PDFMathTranslate handoff, BongoCat timeline, and CCR iterations are documented, but their channel contributions cannot be quantified from these records. Four popular projects above still lack sufficient mainland-location evidence. This study has not reconstructed complete two-year star additions.
 
-向编辑或社区自荐时，提供一份完整素材包：
+Further research should seek author interviews or authorized traffic data: initial channels, the strongest handoff, successful trials, and continued usage. Maintain dated revisions and source definitions.
 
-- 一句话说明解决的问题。
-- 一张真实的前后对比图。
-- 可体验的入口或最短安装步骤。
-- 明确的适用人群和当前限制。
-- 项目链接及作者联系方式。
+## Conclusion
 
-对 AI 产品，可以优先展示表格是否完整、引用能否追溯、生成文件是否能直接使用等具体结果。
-
-### 3. BongoCat：社区与周刊负责发现，自定义内容提供后续话题
-
-#### 公开时间线
-
-| 时间 | 动作与来源 |
-| --- | --- |
-| 2025-04-22 | 作者 ayangweb 在 V2EX 介绍项目，说明自己因为 macOS 使用需求而开发跨平台版本；项目灵感来自 Bongo Cat Mver。[作者介绍](https://www.v2ex.com/t/1127289) |
-| 2025-05-09 | 项目进入阮一峰《科技爱好者周刊》第 347 期，明确标注作者投稿。[周刊记录](https://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html) |
-| 2025-06-04 | 作者再次发布自定义模型导入功能，配套制作教程、B 站视频和模型合集。[更新帖](https://v2ex.com/t/1136196) |
-
-#### 分析：一次产品发布，变成多个介绍理由
-
-早期介绍理由是熟悉的桌宠可以在更多系统上使用；后续介绍理由是用户能够制作自己的角色。我的判断是，这种扩展能力让用户、创作者和教程作者都获得了可以展示的内容。
-
-时间线也提示，模型生态是后续扩散条件，不能把它直接当成最早的传播起点。公开记录证明这些动作发生过，还不能确定哪个渠道贡献最多。
-
-#### 可借鉴动作
-
-- 每次发布值得展示的新能力，同时提供现成案例。
-- 给创作者准备教程和素材，降低二次制作成本。
-- 给普通用户提供可直接下载的作品合集。
-- 让模板、主题、角色或工作流成为持续更新的内容来源。
-
-用户分享自己的成果时，会自然提到所用工具；这需要产品确实给用户提供有展示价值的结果。
-
-### 4. Claude Code Router：需求出现时开始探索，成熟后出现集中传播
-
-#### 公开时间线
-
-| 时间 | 动作与来源 |
-| --- | --- |
-| 2025-02-25 | 作者 musi 在 V2EX 发布接入 Qwen 的早期探索，附效果图和开源链接；当时链接名称为 `claude-code-reverse`。[早期帖](https://www.v2ex.com/t/1114144) |
-| 2025 年 5 月底 | 作者技术复盘说明，早期模型能力与设计存在问题，随后重新设计，改善模型适配和工具调用。[作者复盘](https://github.com/musistudio/claude-code-router/blob/main/blog/zh/项目初衷及原理.md) |
-| 2025 年 6—7 月 | 出现集中上榜，6 月 26 日达到 Trending 全语言第 3。[历史记录](https://www.star-history.com/musistudio/claude-code-router/) |
-
-#### 分析：上游产品提供需求与认知，配套工具提供解决方案
-
-用户已经知道 Claude Code，也已有模型选择、配置和成本方面的需求。项目因此容易被解释和搜索。我的判断是，上游热度与配套需求，为作者提供了一个清楚的切入点。
-
-时间线同时说明，早期发布只是起点。项目经过数月迭代后才迎来集中传播。评论区可以看到作者持续解释配置、讨论问题和更新进展，这些互动也提供了可用性改进的线索。[作者互动记录](https://global.v2ex.com/t/1114144)
-
-#### 可借鉴动作
-
-- 跟踪增长中的上游生态，寻找一个明确的使用障碍。
-- 围绕用户熟悉的操作展示改善效果。
-- 让项目名称、介绍和教程匹配已有需求的表达方式。
-- 尽早展示，并持续把反馈转为产品改进。
-
-窗口响应速度值得学习，但早发布与后来的规模增长之间，仍需要产品可用性和持续维护。
-
-## 三、其他案例提供的补充启发
-
-### Cherry Studio：承接模型热潮，然后组织共建
-
-创始人王新铭的访谈介绍及时间轴，记录了 DeepSeek 热潮带来的用户涌入。这里采用的是节目介绍信息，没有对完整音频逐句核验。项目随后推出开发者共创及贡献者奖励计划，首个统计周期为 2025 年第三季度。[访谈](https://podcasts.apple.com/ma/podcast/cherry-studio-%E7%8E%8B%E6%96%B0%E9%93%AD-2-%E4%B8%AA%E4%BA%BA-github-42k-%E6%98%9F-%E4%BB%A3%E7%A0%81%E8%B4%A1%E7%8C%AE%E7%AC%AC%E4%B8%80%E5%90%8D%E6%98%AF-claude/id1671502201?i=1000756144697&l=ar)、[共创计划](https://github.com/CherryHQ/cherry-studio#-developer-co-creation-program)
-
-可借鉴的分析是：热点阶段做好新用户的首次使用体验，关注沉淀后给贡献者明确的任务、反馈和认可。该项目按小团队案例理解更合适。
-
-### 小智 AI：让硬件厂商与教程作者围绕产品生产内容
-
-官方仓库提供演示、固件、入门资料和多种开发板支持。2025 年 6 月，Seeed Studio 与团队联合举办线下体验交流会，提供了明确的生态合作记录。[项目仓库](https://github.com/78/xiaozhi-esp32)、[联合活动](https://www.tenclass.com/new_pages/det_news_273.html)
-
-可借鉴的分析是：硬件厂商能展示开发板，创作者能展示机器人，教程作者能教用户组装。不同参与者都有成果可介绍，形成持续内容来源。它有企业背景，不宜作为纯个人项目的投入对照。
-
-### MinerU：下游集成也是分发入口
-
-RAGFlow 在 2025 年 10 月 23 日的版本中加入 MinerU PDF 解析支持。这是下游产品采用的具体证据，不能据此计算集成带来的获客量。[RAGFlow 发布记录](https://github.com/infiniflow/ragflow/blob/main/docs/release_notes.md)
-
-可借鉴的分析是：对于基础工具，插件、接口、示例工程和兼容文档，能让下游项目更容易集成。集成者随后可能成为长期介绍工具的人。
-
-## 四、个人开发者可以执行的推广流程
-
-以下是结合案例提出的操作建议，不是成功保证，也不是对各作者实际动作的逐项复述。
-
-### 阶段一：让陌生人看懂并验证价值
-
-发布前准备：
-
-- 一句话价值描述：为谁解决哪个具体问题。
-- 一个真实演示：输入、关键操作、输出结果。
-- 一个最短体验入口：在线演示、安装包或清晰步骤。
-- 一个可直接使用的示例。
-- 明确的使用限制、依赖和数据要求。
-
-目标是让潜在用户能判断“是否对我有用”，而不需要先理解整个技术架构。
-
-### 阶段二：在相关社区获得首批使用
-
-建议先选两个用户需求最匹配的社区，发布素材并认真回复问题。社区选择跟着需求走：论文工具面向阅读与科研用户，开发工具面向相关开发者，创作工具面向内容创作者。
-
-关注以下信号：
-
-- 陌生人能否成功运行或完成首次体验。
-- 哪种说法最容易被理解。
-- 用户实际用它处理什么任务。
-- 哪些问题反复出现。
-- 是否有人主动分享结果、写教程或提交贡献。
-
-### 阶段三：形成可被第三方引用的复盘
-
-在获得真实反馈后，复盘可以按这个结构写：
-
-1. 为什么做：真实场景和原来的解决方式。
-2. 怎么判断需求：调研、首批用户和反馈。
-3. 怎样取舍：关键设计决定与失败尝试。
-4. 得到了什么：使用结果、贡献、机会或具体指标，并交代口径。
-5. 学到了什么：哪些经验可迁移，哪些依赖特定条件。
-6. 如何体验：项目、演示与使用入口。
-
-### 阶段四：让编辑和生态伙伴容易接力
-
-给编辑或周刊的素材包应包括：短介绍、对比图或视频、体验链接、目标人群、限制、作者背景。
-
-给集成者或创作者的素材包应包括：接口或扩展说明、可用示例、教程、兼容信息，以及可以展示的模板或成品。
-
-持续维护让传播能够转成使用：改善安装流程，修复首次体验问题，回应反馈，并让每次重要更新都有可展示的成果。
-
-### 自荐文案模板
-
-> 我做了一个开源的【工具类型】，帮助【目标用户】解决【具体问题】。
->
-> 与原来的操作相比，它可以【一个可验证的改善】。这里有真实演示／前后对比：【链接】。
->
-> 体验入口：【链接】；项目地址：【链接】。
->
-> 当前支持【范围】，限制是【限制】。欢迎反馈实际使用中遇到的问题。
-
-### 复盘标题模板
-
-- 我为解决【具体问题】做了一个开源工具，第一批用户教会了我什么
-- 从发布到有人真正使用：这个项目的【时间跨度】复盘
-- 【具体能力】怎么做成可用产品：需求、取舍和失败尝试
-
-标题与内容应有真实证据对应。Star 可以作为过程指标，同时补充使用成功率、复用、贡献和实际结果。
-
-## 五、仍然没有解决的归因问题
-
-- BettaFish 的增长数字主要来自作者自述，未取得逐渠道访问和转化数据。
-- PDFMathTranslate 已确认作者自荐到编辑报道的接力，但无法量化报道贡献。
-- BongoCat 已确认社区、周刊和功能更新的时间线，尚未确定贡献最大的渠道或视频。
-- Claude Code Router 已确认早期发布、重构和后续上榜，但不能只凭顺序断言某次发帖导致爆发。
-- CC Switch、MoneyPrinterTurbo、Prompt Optimizer、TradingAgents-CN 的大陆作者所在地仍待核验。
-- 本文没有完整重建各项目两年 Star 增量；上榜、累计热度、下载和使用量是不同指标。
-
-后续若继续研究，最有价值的补充是作者访谈或授权的仓库流量数据：首批用户从哪里来，哪次第三方传播产生转折，访问后有多少人完成体验，以及热度之后留下了多少持续使用。
-
-## 结语
-
-对个人开发者，值得优先投入的是方便别人验证和介绍的材料：可运行成果、清楚的解释、真实复盘和可复用内容。社区反馈帮助完善产品，第三方介绍帮助扩大受众，扩展能力与持续维护帮助承接关注。
-
-这些案例提供了可参考的传播动作与时间线。它们支持有依据的推广决策，不支持把爆火概率、融资或收入当成可保证的结果。
+Prioritize material that makes a project easy to verify and explain: working outcomes, clear introductions, genuine retrospectives, and reusable assets. Communities help improve products; third-party coverage can expand discovery; extensibility and maintenance help turn attention into use. These cases inform decisions, not guaranteed growth, funding, or revenue.

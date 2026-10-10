@@ -1,45 +1,47 @@
-# 【项目名】：【传播路径】
+# [Project]: [distribution path]
 
-最后整理：YYYY-MM-DD  
-项目链接：  
-作者与身份依据：  
-观察窗口：  
-观察阶段：个人起步／社区共建／公司孵化／团队项目
+**English** | [简体中文](../i18n/zh-CN/templates/case-study.md) | [日本語](../i18n/ja/templates/case-study.md) | [Français](../i18n/fr/templates/case-study.md) | [Deutsch](../i18n/de/templates/case-study.md)
 
-## 项目与用户需求
+Compiled: YYYY-MM-DD  
+Project URL:  
+Author and location evidence:  
+Observation window:  
+Stage: individual origin / community maintenance / company incubation / team project
 
-为谁解决什么问题？读者怎样验证结果？
+## Project and user need
 
-## 公开时间线
+Who benefits, what problem is solved, and how can readers verify the outcome?
 
-| 日期 | 事件 | 来源 | 证据类型 |
+## Public timeline
+
+| Date | Event | Source | Evidence type |
 | --- | --- | --- | --- |
-| YYYY-MM-DD | 首次公开介绍或早期记录 | 直接链接 | 作者自述／原始记录／第三方报道 |
+| YYYY-MM-DD | Launch or early record | Direct URL | Author report / original record / coverage |
 
-## 热度或使用指标
+## Attention or usage metrics
 
-| 指标 | 数值 | 日期或窗口 | 口径 | 来源 |
+| Metric | Value | Date or window | Definition | Source |
 | --- | --- | --- | --- | --- |
-| Star／下载／用户／上榜 | 待填写 | 待填写 | 累计或新增、全语言或分类榜等 | 直接链接 |
+| Stars / downloads / users / Trending | To fill | To fill | Total or added; all-language or language ranking | Direct URL |
 
-## 分析推断
+## Inference
 
-哪些公开事实支持这一解释？还存在什么替代解释？不要把时间先后直接写成已证实的因果。
+Which public facts support the explanation? What alternatives remain? Chronology alone is not established causality.
 
-## 可复用动作
+## Reusable actions
 
-记录能够执行的动作，以及适用条件。
+Record executable actions and their applicability.
 
-## 待核验
+## Open questions
 
-记录身份、流量、渠道贡献、转化和持续使用等未知项。
+List unknowns about identity, traffic, attribution, conversion, and continued use.
 
-## 来源
+## Sources
 
-附原文链接、发表日期和本次核验日期。转载注明原作者和原文；优先寻找一手资料。
+Include original URLs, publication dates, and verification dates. Attribute reposts and seek primary records.
 
-## 修订记录
+## Revision log
 
-| 日期 | 变化 | 新增依据 |
+| Date | Change | New evidence |
 | --- | --- | --- |
-| YYYY-MM-DD | 初次记录 | 待填写 |
+| YYYY-MM-DD | Initial record | To fill |

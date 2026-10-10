@@ -1,36 +1,38 @@
-# BongoCat：社区发现与用户创作
+# BongoCat: community discovery and user creations
 
-最后整理：2026-10-10  
-项目：[ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)  
-作者：[ayangweb](https://github.com/ayangweb)，公开主页标注青海。项目灵感来自 Bongo Cat Mver，应保留上游归属。
+**English** | [简体中文](../i18n/zh-CN/cases/bongocat.md) | [日本語](../i18n/ja/cases/bongocat.md) | [Français](../i18n/fr/cases/bongocat.md) | [Deutsch](../i18n/de/cases/bongocat.md)
 
-## 公开时间线
+Compiled: 2026-10-10  
+Project: [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)  
+Author: [ayangweb](https://github.com/ayangweb), whose public profile lists Qinghai. Inspired by Bongo Cat Mver; preserve upstream attribution.
 
-| 日期 | 事件 | 来源 |
+## Public timeline
+
+| Date | Event | Source |
 | --- | --- | --- |
-| 2025-04-22 | 作者在 V2EX 介绍跨平台版本及自身 macOS 使用需求 | [作者介绍](https://www.v2ex.com/t/1127289) |
-| 2025-05-09 | 入选阮一峰科技爱好者周刊第 347 期，标注作者投稿 | [周刊记录](https://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html) |
-| 2025-06-04 | 作者发布自定义模型导入，附教程、视频与模型合集 | [更新帖](https://v2ex.com/t/1136196) |
+| 2025-04-22 | The author introduced the cross-platform version on V2EX, explaining a personal macOS need. | [Introduction](https://www.v2ex.com/t/1127289) |
+| 2025-05-09 | Included in issue 347 of Ruan Yifeng's Technology Enthusiast Weekly, credited as an author submission. | [Newsletter](https://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html) |
+| 2025-06-04 | Custom-model importing announced with a tutorial, video, and model collection. | [Update](https://v2ex.com/t/1136196) |
 
-## 分析推断
+## Inference
 
-早期介绍理由是熟悉的桌宠能够在更多系统使用，后续理由变成用户可以制作自己的角色。周刊与社区提供发现入口，自定义内容提供新的展示话题。
+The first introduction offered a familiar desktop pet on more systems; later updates let users create their own characters. Communities and newsletters offered discovery, while customization supplied fresh things to show.
 
-模型生态出现在这条时间线的后续阶段，不能直接当成最早传播的起点；现有记录也不能判断哪条视频或帖子贡献最多。
+The model ecosystem appears later in this timeline. It should not be assumed to have caused initial discovery, and available records do not identify the highest-contributing post or video.
 
-## 可复用动作
+## Reusable actions
 
-- 重要更新同时准备案例、教程和素材。
-- 为创作者提供制作入口，为普通用户提供现成作品。
-- 维护模板、主题、角色或工作流合集，让用户有持续分享的内容。
-- 使用自身需求解释动机，明确上游项目和贡献者归属。
+- Release examples, tutorials, and assets with meaningful updates.
+- Provide creation tools for makers and ready-made work for ordinary users.
+- Maintain template, theme, character, or workflow collections for ongoing sharing.
+- Explain the personal need and credit upstream projects and contributors.
 
-## 待核验
+## Open questions
 
-- 周刊收录前后的访问变化是多少？
-- 自定义模型发布后，分享、使用和贡献是否明显增长？
-- 用户展示是否保留项目入口，是否带来可量化转化？
+- How did traffic change around newsletter coverage?
+- Did custom models increase sharing, usage, or contributions?
+- Did user showcases retain a project link and produce measurable conversions?
 
-## 来源
+## Sources
 
-见时间线中的原始链接、[模型合集](https://github.com/ayangweb/Awesome-BongoCat)及[完整研究](../research/github-personal-developer-growth-2024-2026.md)。
+See the timeline, the [model collection](https://github.com/ayangweb/Awesome-BongoCat), and the [research snapshot](../research/github-personal-developer-growth-2024-2026.md).

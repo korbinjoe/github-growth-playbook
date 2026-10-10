@@ -1,52 +1,60 @@
-# GitHub 项目增长经验库
+# GitHub Growth Playbook
 
-围绕个人开发者的开源项目，记录首批用户从哪里来、传播转折如何发生，以及哪些推广动作值得复用。
+**English** | [简体中文](i18n/zh-CN/README.md) | [日本語](i18n/ja/README.md) | [Français](i18n/fr/README.md) | [Deutsch](i18n/de/README.md)
 
-这里把**公开事实、作者自述和分析推断**分开记录。关注有来源的传播过程，累计 Star、上榜记录、下载量和实际用户量分别标注。
+Document how open-source projects by individual developers find their first users, reach distribution turning points, and turn attention into adoption.
 
-## 从这里开始
+We distinguish **public records, author-reported claims, and analytical inferences**. Stars, Trending appearances, downloads, and actual users are separate measures.
 
-- [最近两年完整研究：项目地图、传播分析与来源](research/github-personal-developer-growth-2024-2026.md)
-- [推广执行流程与素材清单](playbooks/launch-and-distribution.md)
-- [案例记录模板](templates/case-study.md)
-- [补充与修订规范](CONTRIBUTING.md)
+## Start here
 
-首轮研究整理于 **2026-10-10**，观察窗口为 **2024-10-10 至 2026-10-10**。这是历史快照，数据不会自动更新。
+- [Two-year research: projects, distribution patterns, and sources](research/github-personal-developer-growth-2024-2026.md)
+- [Launch and distribution playbook](playbooks/launch-and-distribution.md)
+- [Case-study template](templates/case-study.md)
+- [Growth-experiment template](templates/growth-experiment.md)
+- [Contribution and correction guidelines](CONTRIBUTING.md)
 
-## 个人开发者案例
+The first research snapshot was compiled on **2026-10-10**, covering **2024-10-10 to 2026-10-10**. Figures are historical snapshots and do not update automatically.
 
-| 案例 | 已确认的传播记录 | 可借鉴的动作 |
+## Individual-developer cases
+
+| Case | Documented distribution trail | Reusable action |
 | --- | --- | --- |
-| [BettaFish](cases/bettafish.md) | 社区推广、约 1,000 Star 后的作者复盘、公众号与其他创作者接力；增长数字来自作者自述 | 先获得真实反馈，再输出带成果证据的复盘 |
-| [PDFMathTranslate](cases/pdfmathtranslate.md) | 2024 年 11 月作者自荐，随后小众软件编辑报道 | 准备清楚的前后对比、体验入口和目标人群说明 |
-| [BongoCat](cases/bongocat.md) | 2025 年 4 月社区介绍、5 月周刊收录、6 月自定义模型发布 | 让重要更新有配套案例、教程和创作素材 |
-| [Claude Code Router](cases/claude-code-router.md) | 2025 年 2 月早期探索、5 月底重构、6—7 月集中上榜 | 围绕热门生态的具体需求发布，并持续改善可用性 |
+| [BettaFish](cases/bettafish.md) | Community outreach; a retrospective after roughly 1,000 stars; coverage and reposts. Growth figures are author-reported. | Gather real feedback, then publish a retrospective backed by outcomes. |
+| [PDFMathTranslate](cases/pdfmathtranslate.md) | Author submission in November 2024, followed by Appinn editorial coverage. | Provide before/after evidence, a trial link, and a clear audience. |
+| [BongoCat](cases/bongocat.md) | Community introduction in April 2025, newsletter coverage in May, custom models in June. | Ship examples, tutorials, and creative assets alongside meaningful updates. |
+| [Claude Code Router](cases/claude-code-router.md) | Early exploration in February 2025, redesign in late May, concentrated Trending appearances in June–July. | Address a concrete need in a popular ecosystem and improve usability. |
 
-完整研究还收录小团队和机构项目作对照，并单独标注大陆作者所在地尚未核验的项目。
+The research also includes small-team and institutional comparisons, plus projects whose mainland-China authorship has not been sufficiently verified.
 
-## 如何持续沉淀
+## Keep building the library
 
-1. 找到一个项目，优先寻找作者首发帖、复盘、发布日志和第三方报道。
-2. 用案例模板记录时间线，每个关键事实附可定位的来源。
-3. 标明哪些内容是作者自述，哪些是分析；没有数据时保留待核验问题。
-4. 将能够复用的动作整理进推广手册，实际执行后补充结果。
-5. 更新已有案例时保留旧快照日期，记录发生变化的内容。
+1. Find original launch posts, retrospectives, release notes, and coverage.
+2. Record a timeline using the template, with a source for every key claim.
+3. Label author reports and inferences; keep unknowns visible.
+4. Turn transferable actions into playbooks; record results after trying them.
+5. Preserve snapshot dates and record substantive corrections.
 
-新增案例放在 `cases/`，综合研究放在 `research/`，执行经验放在 `playbooks/`。可通过 Issue 提交线索，通过 Pull Request 补充或修订。
+Put cases in `cases/`, research snapshots in `research/`, and operational lessons in `playbooks/`. Submit leads through Issues and changes through Pull Requests. Each document has a language selector linking to its counterpart.
 
-## 研究边界
+## Evidence boundaries
 
-- 中文介绍不等于作者位于中国大陆，身份依据单独列明。
-- 个人起步不等于后续一直单人维护，公司孵化与社区共建分别记录。
-- 时间先后不等于因果关系，转载发生不等于已知其带来的访问和转化量。
-- 样本以有公开记录的成功项目为主，存在幸存者偏差；推广动作不保证增长、收入或融资结果。
-- 仓库主要存放自行整理的分析与短摘录，原始文章、图片和视频通过链接引用。
+- A Chinese README does not establish mainland-China authorship.
+- An individual origin does not imply permanent solo maintenance. Separate community contributions and company incubation.
+- Chronology is not causality; coverage alone does not establish traffic or conversion.
+- The sample favors successful projects with public records and has survivorship bias. Actions do not guarantee growth, revenue, or funding.
+- Store original analysis and short excerpts; link to third-party articles and media.
 
-## 目录
+## Repository layout
 
 ```text
-cases/         个人开发者项目案例
-research/      带日期的综合研究快照
-playbooks/     可执行的推广流程与实验经验
-templates/     案例与实验记录模板
+cases/         Individual-developer case studies
+research/      Dated research snapshots
+playbooks/     Distribution actions and experiments
+templates/     Case-study and experiment templates
+i18n/         Chinese, Japanese, French, and German editions
 ```
+
+## License
+
+Original repository documentation and translations are licensed under [CC BY 4.0](LICENSE). You may share and adapt them, including commercially, with attribution, a license link, and an indication of changes. Third-party material retains its own terms; see [NOTICE](NOTICE.md).

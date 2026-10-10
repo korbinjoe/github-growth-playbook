@@ -1,37 +1,39 @@
-# PDFMathTranslate：作者自荐到编辑报道
+# PDFMathTranslate: author submission to editorial coverage
 
-最后整理：2026-10-10  
-项目：[PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)，原地址为 `Byaidu/PDFMathTranslate`。  
-作者：Byaidu；[公开主页](https://github.com/Byaidu)标注电子科技大学背景。后续有社区共建。
+**English** | [简体中文](../i18n/zh-CN/cases/pdfmathtranslate.md) | [日本語](../i18n/ja/cases/pdfmathtranslate.md) | [Français](../i18n/fr/cases/pdfmathtranslate.md) | [Deutsch](../i18n/de/cases/pdfmathtranslate.md)
 
-## 公开时间线
+Compiled: 2026-10-10  
+Project: [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate), formerly `Byaidu/PDFMathTranslate`.  
+Author: Byaidu; the [public profile](https://github.com/Byaidu) lists a University of Electronic Science and Technology of China affiliation. Later work includes community contributions.
 
-| 日期 | 事件 | 来源 |
+## Public timeline
+
+| Date | Event | Source |
 | --- | --- | --- |
-| 2024-11-06 | 作者在小众软件论坛自荐，介绍论文 PDF 翻译、排版保留及演示入口 | [自荐帖](https://meta.appinn.net/t/topic/62859/1) |
-| 2024-11-19 | 小众软件编辑报道，明确注明来自作者自荐，并展示效果 | [编辑报道](https://www.appinn.com/pdf-math-translate/) |
-| 后续版本 | 使用方式逐步补充 Windows、GUI、Zotero 等入口 | [官方文档](https://github.com/PDFMathTranslate/PDFMathTranslate/blob/main/docs/README_zh-CN.md) |
-| 2025-07 | 论文报告已有超过 22.2 万次下载；不能直接等同于独立用户数 | [项目论文](https://arxiv.org/abs/2507.03009) |
+| 2024-11-06 | Author submission on Appinn's forum, explaining scientific-PDF translation, layout preservation, and trial access. | [Submission](https://meta.appinn.net/t/topic/62859/1) |
+| 2024-11-19 | Appinn editorial coverage explicitly credited the submission and displayed results. | [Coverage](https://www.appinn.com/pdf-math-translate/) |
+| Later releases | Windows packages, a GUI, and Zotero-related access expanded usage options. | [Documentation](https://github.com/PDFMathTranslate/PDFMathTranslate/blob/main/docs/README_zh-CN.md) |
+| 2025-07 | The paper reported more than 222,000 downloads; this is not a unique-user count. | [Paper](https://arxiv.org/abs/2507.03009) |
 
-## 分析推断
+## Inference
 
-“翻译后公式、图表、排版还在”可以用前后对比解释。目标读者明确，编辑容易说明适用人群，也容易制作介绍文章。
+A before/after image can explain preserved formulas, charts, and layouts. Students, researchers, and paper readers form an identifiable audience, reducing the effort required to explain and cover the tool.
 
-早期报道仍提醒它是命令行工具。获得曝光后，安装入口和文档继续决定有多少关注能转成成功使用。
+Early coverage still noted its command-line interface. Once attention arrived, installation options and documentation continued to matter for successful use.
 
-## 可复用动作
+## Reusable actions
 
-- 自荐同时提供一句话价值、真实对比图、体验入口、适用人群和限制。
-- 选择目标用户已经聚集的工具社区。
-- 用实际结果解释 AI 能力，例如表格保留、可追溯引用或可直接使用的文件。
-- 曝光后优先处理安装和首次使用障碍。
+- Submit a one-sentence benefit, a real comparison, trial access, audience, and limitations together.
+- Choose communities where intended users already gather.
+- Demonstrate concrete AI outcomes: intact tables, traceable citations, or usable files.
+- Prioritize installation and first-use obstacles after exposure.
 
-## 待核验
+## Open questions
 
-- 编辑报道带来了多少访问、下载和 Star？
-- 在线体验、安装包和工作流集成各自贡献多少使用量？
-- 下载统计的来源、去重方式和持续使用情况是什么？
+- How much traffic, download activity, and star growth came from editorial coverage?
+- What did online trials, packages, and workflow integrations each contribute?
+- How were downloads measured and deduplicated, and how much continued usage followed?
 
-## 来源
+## Sources
 
-见时间线中的原始链接及[完整研究](../research/github-personal-developer-growth-2024-2026.md)。
+See the timeline links and the [research snapshot](../research/github-personal-developer-growth-2024-2026.md).
