@@ -65,6 +65,29 @@ MoneyPrinterTurbo 有窗口内的阶段性热度记录：2025 年 5 月及 9—1
 
 [MiroFish](https://github.com/666ghj/MiroFish) 与 BettaFish 出自同一作者，公开主页显示累计约 7.75 万 Star。但作者复盘明确说明，MiroFish 的开发已有盛大支持，随后进入投资与孵化阶段。因此，研究个人冷启动时应重点分析 BettaFish；MiroFish 更适合研究前一项目形成的声誉、资源与后续产品如何衔接。[作者主页](https://github.com/666ghj)、[作者复盘](https://linux.do/t/topic/1697717)
 
+## 覆盖补充：其余十个独立案例
+
+首版项目地图列了 14 个项目，独立案例只有 4 个。本次补齐其余 10 个，保留原有 Star 快照日期与证据边界。“覆盖完整”仅指本次研究的项目，不代表穷尽 GitHub 成功项目。
+
+| 项目 | 案例范围 | 可借鉴重点 |
+| --- | --- | --- |
+| [BettaFish](../cases/bettafish.md) | 个人起步；有大陆背景依据 | 带成果证据的复盘 |
+| [PDFMathTranslate](../cases/pdfmathtranslate.md) | 个人起步；有大陆背景依据 | 演示与编辑报道接力 |
+| [BongoCat](../cases/bongocat.md) | 个人起步；有大陆背景依据 | 用户创作与更新素材 |
+| [Claude Code Router](../cases/claude-code-router.md) | 个人起步；有大陆背景依据 | 热门上游的具体配套需求 |
+| [CC Switch](../cases/cc-switch.md) | 个人账号项目；大陆所在地待核验 | GUI 配置、版本分发与社区反馈 |
+| [MoneyPrinterTurbo](../cases/moneyprinterturbo.md) | 个人账号项目；大陆所在地待核验 | 成品展示与可改造工作流 |
+| [Prompt Optimizer](../cases/prompt-optimizer.md) | 个人账号项目；大陆所在地待核验 | 结果对比与体验入口 |
+| [TradingAgents-CN](../cases/tradingagents-cn.md) | 个人账号项目；大陆所在地待核验 | 工作流本地化与上游归属 |
+| [LLaMA-Factory](../cases/llama-factory.md) | 个人起步；有大陆背景依据 | 可用示例与持续支持 |
+| [MiroFish](../cases/mirofish.md) | 作者后续项目；已有孵化 | 跨项目叙事与已有声誉 |
+| [Cherry Studio](../cases/cherry-studio.md) | 小团队 | 首次使用与贡献者组织 |
+| [XiaoZhi AI](../cases/xiaozhi-esp32.md) | 有企业支持的硬件生态 | 创客、教程与伙伴演示 |
+| [MinerU](../cases/mineru.md) | 机构／团队对照 | 方便下游采用的集成材料 |
+| [DeepSeek-R1](../cases/deepseek-r1.md) | 机构／团队对照 | 体验、评测与报告协同发布 |
+
+**CC Switch** 新增作者 Linux Do 自荐与历史版本证据。帖子现标题已编辑为后续版本，不能把首次发帖日当成该版本发布日。**MoneyPrinterTurbo** 补充作者复盘；**TradingAgents-CN** 需说明当前混合授权。产品传播与作者所在地仍分开核验，具体原始来源与未解决的归因问题见各案例。
+
 ## 二、个人开发者传播路径深挖
 
 ### 1. BettaFish：第一批社区认可，成为第二轮复盘的素材

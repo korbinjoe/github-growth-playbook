@@ -29,3 +29,5 @@ Conserver les dates historiques et noter les changements avec leurs preuves. Pou
 L'anglais est la version par défaut. `i18n/zh-CN/`, `i18n/ja/`, `i18n/fr/` et `i18n/de/` reprennent les mêmes chemins. Préserver liens, dates, sens des chiffres, niveaux de preuve et incertitudes. Le sélecteur doit mener au même document dans les cinq langues.
 
 Les contributions originales sont proposées sous [CC BY 4.0](../../LICENSE). Les contenus tiers gardent leurs conditions : [NOTICE](NOTICE.md).
+
+Tout projet ajouté à la carte de recherche doit aussi avoir un cas autonome et une entrée README dans les cinq langues. La couverture ne peut être dite complète que si chaque projet listé est accessible depuis l’index.

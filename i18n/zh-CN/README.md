@@ -27,6 +27,27 @@
 
 完整研究还收录小团队和机构项目作对照，并单独标注大陆作者所在地尚未核验的项目。
 
+## 完整项目索引：14 个案例
+
+原研究项目地图中的每个项目现均有独立案例。配置工具可先读 CC Switch；阅读增长机制时同时查看作者背景与证据边界。个人账号不直接证明单人维护或作者所在地。
+
+| 项目 | 案例范围 | 可借鉴重点 |
+| --- | --- | --- |
+| [BettaFish](cases/bettafish.md) | 个人起步；有大陆背景依据 | 带成果证据的复盘 |
+| [PDFMathTranslate](cases/pdfmathtranslate.md) | 个人起步；有大陆背景依据 | 演示与编辑报道接力 |
+| [BongoCat](cases/bongocat.md) | 个人起步；有大陆背景依据 | 用户创作与更新素材 |
+| [Claude Code Router](cases/claude-code-router.md) | 个人起步；有大陆背景依据 | 热门上游的具体配套需求 |
+| [CC Switch](cases/cc-switch.md) | 个人账号项目；大陆所在地待核验 | GUI 配置、版本分发与社区反馈 |
+| [MoneyPrinterTurbo](cases/moneyprinterturbo.md) | 个人账号项目；大陆所在地待核验 | 成品展示与可改造工作流 |
+| [Prompt Optimizer](cases/prompt-optimizer.md) | 个人账号项目；大陆所在地待核验 | 结果对比与体验入口 |
+| [TradingAgents-CN](cases/tradingagents-cn.md) | 个人账号项目；大陆所在地待核验 | 工作流本地化与上游归属 |
+| [LLaMA-Factory](cases/llama-factory.md) | 个人起步；有大陆背景依据 | 可用示例与持续支持 |
+| [MiroFish](cases/mirofish.md) | 作者后续项目；已有孵化 | 跨项目叙事与已有声誉 |
+| [Cherry Studio](cases/cherry-studio.md) | 小团队 | 首次使用与贡献者组织 |
+| [XiaoZhi AI](cases/xiaozhi-esp32.md) | 有企业支持的硬件生态 | 创客、教程与伙伴演示 |
+| [MinerU](cases/mineru.md) | 机构／团队对照 | 方便下游采用的集成材料 |
+| [DeepSeek-R1](cases/deepseek-r1.md) | 机构／团队对照 | 体验、评测与报告协同发布 |
+
 ## 如何持续沉淀
 
 1. 找到一个项目，优先寻找作者首发帖、复盘、发布日志和第三方报道。

@@ -63,6 +63,29 @@ MoneyPrinterTurboは2025年5月と9〜10月に全言語1位の記録がありま
 
 BettaFishと同じ作者の[MiroFish](https://github.com/666ghj/MiroFish)は[プロフィールの記録](https://github.com/666ghj)で約77.5k Starでした。[振り返り](https://linux.do/t/topic/1697717)には開発時のShanda支援とその後の出資・育成が明記されています。個人の起点はBettaFish、評判と資源の次製品への接続はMiroFishで検討します。
 
+## 補足：残る10件の独立ケース
+
+初版は一覧に14件を載せ、独立ケースは4件だけでした。今回、残る10件を追加し、元のスターの観測日と証拠の限界を維持します。網羅はこの調査の一覧を指し、GitHub全体の成功事例を尽くすものではありません。
+
+| プロジェクト | 対象範囲 | 参考になる点 |
+| --- | --- | --- |
+| [BettaFish](../cases/bettafish.md) | 個人発；中国本土の背景証拠あり | 成果を伴う振り返り |
+| [PDFMathTranslate](../cases/pdfmathtranslate.md) | 個人発；中国本土の背景証拠あり | デモと編集記事への引き継ぎ |
+| [BongoCat](../cases/bongocat.md) | 個人発；中国本土の背景証拠あり | 利用者の創作と更新資料 |
+| [Claude Code Router](../cases/claude-code-router.md) | 個人発；中国本土の背景証拠あり | 人気の上流製品の補助需要 |
+| [CC Switch](../cases/cc-switch.md) | 個人アカウント発；本土所在地は未確認 | GUI設定、配布、コミュニティの声 |
+| [MoneyPrinterTurbo](../cases/moneyprinterturbo.md) | 個人アカウント発；本土所在地は未確認 | 完成品と改変可能な工程 |
+| [Prompt Optimizer](../cases/prompt-optimizer.md) | 個人アカウント発；本土所在地は未確認 | 結果比較と試用入口 |
+| [TradingAgents-CN](../cases/tradingagents-cn.md) | 個人アカウント発；本土所在地は未確認 | 工程のローカライズと上流の明記 |
+| [LLaMA-Factory](../cases/llama-factory.md) | 個人発；中国本土の背景証拠あり | 実用例と継続的な対応 |
+| [MiroFish](../cases/mirofish.md) | 作者の後続製品；育成支援あり | 製品間の説明と既存の評判 |
+| [Cherry Studio](../cases/cherry-studio.md) | 小規模チーム | 初回利用と貢献者の組織化 |
+| [XiaoZhi AI](../cases/xiaozhi-esp32.md) | 企業支援のハードウェア生態系 | メイカー、教程、提携デモ |
+| [MinerU](../cases/mineru.md) | 組織／チームとの比較 | 下流への統合資料 |
+| [DeepSeek-R1](../cases/deepseek-r1.md) | 組織／チームとの比較 | 試用、評価、報告の同時準備 |
+
+**CC Switch**には作者のLinux Do紹介と過去の版を追加。投稿の現在のタイトルは後の版に編集されており、初投稿日をその版の公開日にはできません。**MoneyPrinterTurbo**は作者の振り返りを追加し、**TradingAgents-CN**は現在の混合ライセンスを区別します。拡散と作者所在地は別の問いです。原典と未解決の帰属は各ケースを参照してください。
+
 ## 四つの個人開発経路
 
 ### BettaFish

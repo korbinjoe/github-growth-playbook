@@ -27,6 +27,27 @@ Die erste Studie wurde am **2026-10-10** erstellt und betrachtet **2024-10-10 bi
 
 Die Studie enthält Vergleiche mit kleinen Teams und Institutionen sowie Projekte, deren Urheber aus Festlandchina noch nicht ausreichend belegt sind.
 
+## Vollständiger Projektindex: 14 Fälle
+
+Jedes Projekt der ursprünglichen Projektübersicht hat jetzt einen eigenen Fall. Für Konfigurationswerkzeuge mit CC Switch beginnen; Einordnung und Beleggrenzen zusammen mit dem vorgeschlagenen Mechanismus lesen. Ein persönliches Konto beweist weder alleinige Pflege noch Standort.
+
+| Projekt | Einordnung | Zu untersuchende Erkenntnis |
+| --- | --- | --- |
+| [BettaFish](cases/bettafish.md) | Individueller Ursprung; Festlandbelege | Durch Ergebnisse gestützte Rückblicke |
+| [PDFMathTranslate](cases/pdfmathtranslate.md) | Individueller Ursprung; Festlandbelege | Demos und redaktionelle Weitervermittlung |
+| [BongoCat](cases/bongocat.md) | Individueller Ursprung; Festlandbelege | Nutzerkreationen und Update-Materialien |
+| [Claude Code Router](cases/claude-code-router.md) | Individueller Ursprung; Festlandbelege | Ergänzender Bedarf um ein populäres Werkzeug |
+| [CC Switch](cases/cc-switch.md) | Persönliches Konto; Festlandstandort ungeprüft | GUI-Konfiguration, Versionen und Community-Feedback |
+| [MoneyPrinterTurbo](cases/moneyprinterturbo.md) | Persönliches Konto; Festlandstandort ungeprüft | Fertige Ergebnisse und anpassbare Abläufe |
+| [Prompt Optimizer](cases/prompt-optimizer.md) | Persönliches Konto; Festlandstandort ungeprüft | Ergebnisvergleich und Testzugang |
+| [TradingAgents-CN](cases/tradingagents-cn.md) | Persönliches Konto; Festlandstandort ungeprüft | Ablauflokalisierung und Upstream-Nennung |
+| [LLaMA-Factory](cases/llama-factory.md) | Individueller Ursprung; Festlandbelege | Praktische Beispiele und dauerhafte Unterstützung |
+| [MiroFish](cases/mirofish.md) | Folgeprojekt mit Inkubation | Produktverbindung und vorhandene Reputation |
+| [Cherry Studio](cases/cherry-studio.md) | Kleines Team | Erste Nutzung und Mitwirkende organisieren |
+| [XiaoZhi AI](cases/xiaozhi-esp32.md) | Unternehmensgestütztes Hardware-Ökosystem | Maker, Tutorials und Partnerdemos |
+| [MinerU](cases/mineru.md) | Institutioneller / Teamvergleich | Materialien für nachgelagerte Integration |
+| [DeepSeek-R1](cases/deepseek-r1.md) | Institutioneller / Teamvergleich | Koordinierte Tests, Bewertungen und Berichte |
+
 ## Die Sammlung erweitern
 
 1. Ursprüngliche Ankündigungen, Rückblicke, Versionshinweise und Berichte finden.

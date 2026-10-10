@@ -63,6 +63,29 @@ MoneyPrinterTurbo has all-language rank-1 records in May and September–October
 
 [MiroFish](https://github.com/666ghj/MiroFish), by the BettaFish creator, had roughly 77.5k stars in the [profile snapshot](https://github.com/666ghj). The [author retrospective](https://linux.do/t/topic/1697717) describes Shanda support during development and later investment/incubation. For individual cold starts, analyze BettaFish's early stage; MiroFish is useful for studying how reputation and resources carry into a later product.
 
+## Coverage update: ten additional standalone cases
+
+The first edition had fourteen projects in its map but only four standalone cases. This update supplies the remaining ten, while retaining the dated star snapshots and the original evidence boundaries. Full coverage of this study is not an exhaustive inventory of GitHub successes.
+
+| Project | Scope | What to learn |
+| --- | --- | --- |
+| [BettaFish](../cases/bettafish.md) | Individual origin; mainland evidence | Evidence-backed retrospectives |
+| [PDFMathTranslate](../cases/pdfmathtranslate.md) | Individual origin; mainland evidence | Demonstrations and editorial handoff |
+| [BongoCat](../cases/bongocat.md) | Individual origin; mainland evidence | User creations and update materials |
+| [Claude Code Router](../cases/claude-code-router.md) | Individual origin; mainland evidence | Needs around a popular upstream tool |
+| [CC Switch](../cases/cc-switch.md) | Individual-account project; mainland location unverified | GUI configuration, releases, and community feedback |
+| [MoneyPrinterTurbo](../cases/moneyprinterturbo.md) | Individual-account project; mainland location unverified | Finished outputs and adaptable workflows |
+| [Prompt Optimizer](../cases/prompt-optimizer.md) | Individual-account project; mainland location unverified | Comparable results and trial access |
+| [TradingAgents-CN](../cases/tradingagents-cn.md) | Individual-account project; mainland location unverified | Workflow localization and upstream credit |
+| [LLaMA-Factory](../cases/llama-factory.md) | Individual origin; mainland evidence | Practical examples and sustained support |
+| [MiroFish](../cases/mirofish.md) | Creator follow-on with incubation | Cross-project narrative and existing reputation |
+| [Cherry Studio](../cases/cherry-studio.md) | Small team | First use and contributor organization |
+| [XiaoZhi AI](../cases/xiaozhi-esp32.md) | Company-backed hardware ecosystem | Makers, tutorials, and partner demonstrations |
+| [MinerU](../cases/mineru.md) | Institutional/team comparison | Integration materials for downstream users |
+| [DeepSeek-R1](../cases/deepseek-r1.md) | Institutional/team comparison | Coordinated trial, evaluation, and report materials |
+
+New evidence for **CC Switch** includes the author’s Linux Do introduction and historical releases. The thread’s current title has been edited to a later version, so its first-post date is not that version’s release date. **MoneyPrinterTurbo** now includes an author retrospective. **TradingAgents-CN** requires a current mixed-license distinction. Product distribution and creator location remain separate questions; see the corresponding cases for primary sources and unresolved attribution.
+
 ## Four individual-developer paths
 
 ### BettaFish

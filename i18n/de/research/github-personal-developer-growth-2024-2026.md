@@ -63,6 +63,29 @@ MoneyPrinterTurbo erreichte im Mai und September–Oktober 2025 Rang 1 über all
 
 [MiroFish](https://github.com/666ghj/MiroFish) vom BettaFish-Autor hatte laut [Profil](https://github.com/666ghj) etwa 77.5k Stars. Der [Rückblick](https://linux.do/t/topic/1697717) beschreibt Shanda-Unterstützung bei der Entwicklung und spätere Finanzierung. BettaFish eignet sich für den individuellen Start, MiroFish für den Übergang von Reputation und Ressourcen zum Folgeprodukt.
 
+## Erweiterte Abdeckung: zehn weitere eigenständige Fälle
+
+Die erste Ausgabe listete vierzehn Projekte, enthielt aber nur vier eigenständige Fälle. Diese Ergänzung liefert die übrigen zehn und bewahrt Beobachtungsdatum und Beleggrenzen. Vollständigkeit bezieht sich auf diese Studie, nicht auf alle GitHub-Erfolge.
+
+| Projekt | Einordnung | Zu untersuchende Erkenntnis |
+| --- | --- | --- |
+| [BettaFish](../cases/bettafish.md) | Individueller Ursprung; Festlandbelege | Durch Ergebnisse gestützte Rückblicke |
+| [PDFMathTranslate](../cases/pdfmathtranslate.md) | Individueller Ursprung; Festlandbelege | Demos und redaktionelle Weitervermittlung |
+| [BongoCat](../cases/bongocat.md) | Individueller Ursprung; Festlandbelege | Nutzerkreationen und Update-Materialien |
+| [Claude Code Router](../cases/claude-code-router.md) | Individueller Ursprung; Festlandbelege | Ergänzender Bedarf um ein populäres Werkzeug |
+| [CC Switch](../cases/cc-switch.md) | Persönliches Konto; Festlandstandort ungeprüft | GUI-Konfiguration, Versionen und Community-Feedback |
+| [MoneyPrinterTurbo](../cases/moneyprinterturbo.md) | Persönliches Konto; Festlandstandort ungeprüft | Fertige Ergebnisse und anpassbare Abläufe |
+| [Prompt Optimizer](../cases/prompt-optimizer.md) | Persönliches Konto; Festlandstandort ungeprüft | Ergebnisvergleich und Testzugang |
+| [TradingAgents-CN](../cases/tradingagents-cn.md) | Persönliches Konto; Festlandstandort ungeprüft | Ablauflokalisierung und Upstream-Nennung |
+| [LLaMA-Factory](../cases/llama-factory.md) | Individueller Ursprung; Festlandbelege | Praktische Beispiele und dauerhafte Unterstützung |
+| [MiroFish](../cases/mirofish.md) | Folgeprojekt mit Inkubation | Produktverbindung und vorhandene Reputation |
+| [Cherry Studio](../cases/cherry-studio.md) | Kleines Team | Erste Nutzung und Mitwirkende organisieren |
+| [XiaoZhi AI](../cases/xiaozhi-esp32.md) | Unternehmensgestütztes Hardware-Ökosystem | Maker, Tutorials und Partnerdemos |
+| [MinerU](../cases/mineru.md) | Institutioneller / Teamvergleich | Materialien für nachgelagerte Integration |
+| [DeepSeek-R1](../cases/deepseek-r1.md) | Institutioneller / Teamvergleich | Koordinierte Tests, Bewertungen und Berichte |
+
+**CC Switch** ergänzt den Linux-Do-Beitrag des Autors und historische Versionen. Der heutige Threadtitel wurde auf eine spätere Version geändert; das Erstbeitragsdatum ist nicht deren Erscheinungsdatum. **MoneyPrinterTurbo** erhält einen Autorenrückblick; bei **TradingAgents-CN** wird die heutige gemischte Lizenz unterschieden. Verbreitung und Standort bleiben getrennte Fragen; Primärquellen und offene Zuordnung stehen in den jeweiligen Fällen.
+
 ## Vier individuelle Wege
 
 ### BettaFish

@@ -27,6 +27,27 @@ The first research snapshot was compiled on **2026-10-10**, covering **2024-10-1
 
 The research also includes small-team and institutional comparisons, plus projects whose mainland-China authorship has not been sufficiently verified.
 
+## Full project index — 14 cases
+
+Every project in the original research map now has a standalone case. Start with CC Switch for configuration tools; read the scope and evidence limits alongside the proposed growth mechanism. Account ownership alone does not establish solo maintenance or location.
+
+| Project | Scope | What to learn |
+| --- | --- | --- |
+| [BettaFish](cases/bettafish.md) | Individual origin; mainland evidence | Evidence-backed retrospectives |
+| [PDFMathTranslate](cases/pdfmathtranslate.md) | Individual origin; mainland evidence | Demonstrations and editorial handoff |
+| [BongoCat](cases/bongocat.md) | Individual origin; mainland evidence | User creations and update materials |
+| [Claude Code Router](cases/claude-code-router.md) | Individual origin; mainland evidence | Needs around a popular upstream tool |
+| [CC Switch](cases/cc-switch.md) | Individual-account project; mainland location unverified | GUI configuration, releases, and community feedback |
+| [MoneyPrinterTurbo](cases/moneyprinterturbo.md) | Individual-account project; mainland location unverified | Finished outputs and adaptable workflows |
+| [Prompt Optimizer](cases/prompt-optimizer.md) | Individual-account project; mainland location unverified | Comparable results and trial access |
+| [TradingAgents-CN](cases/tradingagents-cn.md) | Individual-account project; mainland location unverified | Workflow localization and upstream credit |
+| [LLaMA-Factory](cases/llama-factory.md) | Individual origin; mainland evidence | Practical examples and sustained support |
+| [MiroFish](cases/mirofish.md) | Creator follow-on with incubation | Cross-project narrative and existing reputation |
+| [Cherry Studio](cases/cherry-studio.md) | Small team | First use and contributor organization |
+| [XiaoZhi AI](cases/xiaozhi-esp32.md) | Company-backed hardware ecosystem | Makers, tutorials, and partner demonstrations |
+| [MinerU](cases/mineru.md) | Institutional/team comparison | Integration materials for downstream users |
+| [DeepSeek-R1](cases/deepseek-r1.md) | Institutional/team comparison | Coordinated trial, evaluation, and report materials |
+
 ## Keep building the library
 
 1. Find original launch posts, retrospectives, release notes, and coverage.

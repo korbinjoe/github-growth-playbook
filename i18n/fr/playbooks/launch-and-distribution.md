@@ -52,3 +52,7 @@ Utiliser le [modèle](../templates/growth-experiment.md). Conserver hypothèse, 
 - Rendre [capacité] utilisable : besoins, arbitrages et échecs
 
 Les titres doivent correspondre aux preuves. Une explosion de croissance observée n'est pas un résultat garanti.
+
+## Outils de configuration : démontrer la réduction de friction
+
+Le [cas CC Switch](../cases/cc-switch.md) suggère une expérience : comparer configuration manuelle et parcours graphique simplifié, fournir installateurs et récupération, puis présenter la mise à jour aux utilisateurs concernés. Mesurer configuration achevée et usage répété. Interprétation de traces produit et communautaires, sans garantie de croissance mesurée.

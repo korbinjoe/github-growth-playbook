@@ -27,6 +27,27 @@ Première étude préparée le **2026-10-10**, pour la période **2024-10-10 –
 
 L'étude comprend aussi des comparaisons avec de petites équipes et des institutions, ainsi que des projets dont l'origine en Chine continentale reste à vérifier.
 
+## Index complet : 14 cas
+
+Chaque projet de la carte initiale dispose désormais de son propre cas. Commencer par CC Switch pour les outils de configuration ; lire le périmètre et les limites avec le mécanisme proposé. Un compte individuel ne prouve ni le maintien en solo ni la localisation.
+
+| Projet | Périmètre | Leçon à examiner |
+| --- | --- | --- |
+| [BettaFish](cases/bettafish.md) | Origine individuelle ; indices continentaux | Bilans étayés par des résultats |
+| [PDFMathTranslate](cases/pdfmathtranslate.md) | Origine individuelle ; indices continentaux | Démonstrations et relais éditorial |
+| [BongoCat](cases/bongocat.md) | Origine individuelle ; indices continentaux | Créations des utilisateurs et supports de mise à jour |
+| [Claude Code Router](cases/claude-code-router.md) | Origine individuelle ; indices continentaux | Besoin complémentaire autour d’un outil populaire |
+| [CC Switch](cases/cc-switch.md) | Compte individuel ; localisation continentale non vérifiée | Configuration graphique, versions et retours |
+| [MoneyPrinterTurbo](cases/moneyprinterturbo.md) | Compte individuel ; localisation continentale non vérifiée | Résultats finis et workflows adaptables |
+| [Prompt Optimizer](cases/prompt-optimizer.md) | Compte individuel ; localisation continentale non vérifiée | Comparaison des résultats et accès d’essai |
+| [TradingAgents-CN](cases/tradingagents-cn.md) | Compte individuel ; localisation continentale non vérifiée | Localisation du workflow et attribution amont |
+| [LLaMA-Factory](cases/llama-factory.md) | Origine individuelle ; indices continentaux | Exemples pratiques et support durable |
+| [MiroFish](cases/mirofish.md) | Projet ultérieur avec incubation | Récit entre produits et réputation existante |
+| [Cherry Studio](cases/cherry-studio.md) | Petite équipe | Premier usage et organisation des contributeurs |
+| [XiaoZhi AI](cases/xiaozhi-esp32.md) | Écosystème matériel soutenu par une entreprise | Makers, tutoriels et démonstrations partenaires |
+| [MinerU](cases/mineru.md) | Comparaison institutionnelle / équipe | Ressources d’intégration en aval |
+| [DeepSeek-R1](cases/deepseek-r1.md) | Comparaison institutionnelle / équipe | Essai, évaluation et rapport coordonnés |
+
 ## Enrichir la bibliothèque
 
 1. Chercher les annonces initiales, bilans, notes de version et articles originaux.

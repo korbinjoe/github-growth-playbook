@@ -52,3 +52,7 @@ Die [Experimentvorlage](../templates/growth-experiment.md) verwenden. Hypothese,
 - [Fähigkeit] nutzbar machen: Bedarf, Abwägungen und Fehlversuche
 
 Titel müssen den Belegen entsprechen. Ein Wachstumsschub im Fallbeispiel ist keine garantierte Erwartung.
+
+## Konfigurationswerkzeuge: weniger Aufwand sichtbar machen
+
+Der [CC-Switch-Fall](../cases/cc-switch.md) legt ein Experiment nahe: manuelle Einrichtung und vereinfachten grafischen Ablauf zeigen, nutzbare Installationspakete und Wiederherstellung anbieten und das Update bei den betreffenden Nutzern vorstellen. Abgeschlossene Einrichtung und Wiederverwendung messen. Eine Interpretation der Produkt- und Community-Belege, keine gemessene Wachstumsgarantie.

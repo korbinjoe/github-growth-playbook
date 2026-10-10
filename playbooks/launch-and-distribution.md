@@ -52,3 +52,7 @@ Use the [experiment template](../templates/growth-experiment.md). Preserve the o
 - Making [capability] usable: needs, tradeoffs, and failed attempts
 
 Match titles to evidence. Breakout growth in a case study is not a guaranteed experiment outcome.
+
+## Configuration tools: turn setup friction into a demonstration
+
+The [CC Switch case](../cases/cc-switch.md) suggests an experiment: show a manual setup task and the shortened graphical workflow; publish usable installers and recovery guidance; share the update with the users who perform that task. Measure completed setup and repeat usage. This is an inference from product and community records, not a measured guarantee of growth.

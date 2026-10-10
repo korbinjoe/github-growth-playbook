@@ -29,3 +29,5 @@ Keep historical snapshot dates and record changes with evidence. Use the [experi
 English is the default edition. Corresponding files under `i18n/zh-CN/`, `i18n/ja/`, `i18n/fr/`, and `i18n/de/` use the same relative paths. Preserve URLs, dates, numerical meanings, evidence labels, and uncertainty when translating. The language selector must link to the same document in all five editions.
 
 Contributions of original documentation are submitted under the repository's [CC BY 4.0 license](LICENSE). Third-party material remains subject to its own terms; see [NOTICE](NOTICE.md).
+
+When adding a project to the research map, also add its standalone case and README index entry in all five languages. A coverage claim requires every listed project to be reachable from the index.

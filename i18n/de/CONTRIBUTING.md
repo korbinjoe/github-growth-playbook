@@ -29,3 +29,5 @@ Historische Datenstände erhalten und Änderungen belegen. Tatsächliche Maßnah
 Englisch ist die Standardfassung. `i18n/zh-CN/`, `i18n/ja/`, `i18n/fr/` und `i18n/de/` verwenden identische relative Pfade. Links, Daten, Zahlenbedeutung, Belegarten und Unsicherheiten beim Übersetzen erhalten. Die Sprachauswahl muss zum entsprechenden Dokument führen.
 
 Eigene Dokumentationsbeiträge werden unter [CC BY 4.0](../../LICENSE) eingereicht. Fremdmaterial behält seine Bedingungen; siehe [NOTICE](NOTICE.md).
+
+Für jedes Projekt in der Forschungsübersicht auch einen eigenständigen Fall und README-Indexeintrag in allen fünf Sprachen anlegen. Vollständige Abdeckung setzt voraus, dass jedes gelistete Projekt über den Index erreichbar ist.

@@ -27,6 +27,27 @@
 
 調査には小規模チームや研究機関との比較、中国本土の作者であることを十分に確認できていないプロジェクトも含みます。
 
+## 全プロジェクト索引：14事例
+
+元の調査のプロジェクト一覧にある全件に独立したケースを用意しました。設定ツールはCC Switchから読めます。成長の解釈と同時に対象範囲と証拠の限界も確認してください。個人アカウントは単独維持や所在地の証明ではありません。
+
+| プロジェクト | 対象範囲 | 参考になる点 |
+| --- | --- | --- |
+| [BettaFish](cases/bettafish.md) | 個人発；中国本土の背景証拠あり | 成果を伴う振り返り |
+| [PDFMathTranslate](cases/pdfmathtranslate.md) | 個人発；中国本土の背景証拠あり | デモと編集記事への引き継ぎ |
+| [BongoCat](cases/bongocat.md) | 個人発；中国本土の背景証拠あり | 利用者の創作と更新資料 |
+| [Claude Code Router](cases/claude-code-router.md) | 個人発；中国本土の背景証拠あり | 人気の上流製品の補助需要 |
+| [CC Switch](cases/cc-switch.md) | 個人アカウント発；本土所在地は未確認 | GUI設定、配布、コミュニティの声 |
+| [MoneyPrinterTurbo](cases/moneyprinterturbo.md) | 個人アカウント発；本土所在地は未確認 | 完成品と改変可能な工程 |
+| [Prompt Optimizer](cases/prompt-optimizer.md) | 個人アカウント発；本土所在地は未確認 | 結果比較と試用入口 |
+| [TradingAgents-CN](cases/tradingagents-cn.md) | 個人アカウント発；本土所在地は未確認 | 工程のローカライズと上流の明記 |
+| [LLaMA-Factory](cases/llama-factory.md) | 個人発；中国本土の背景証拠あり | 実用例と継続的な対応 |
+| [MiroFish](cases/mirofish.md) | 作者の後続製品；育成支援あり | 製品間の説明と既存の評判 |
+| [Cherry Studio](cases/cherry-studio.md) | 小規模チーム | 初回利用と貢献者の組織化 |
+| [XiaoZhi AI](cases/xiaozhi-esp32.md) | 企業支援のハードウェア生態系 | メイカー、教程、提携デモ |
+| [MinerU](cases/mineru.md) | 組織／チームとの比較 | 下流への統合資料 |
+| [DeepSeek-R1](cases/deepseek-r1.md) | 組織／チームとの比較 | 試用、評価、報告の同時準備 |
+
 ## 継続して記録する
 
 1. 作者の初投稿、振り返り、リリース記録、実際の記事を探す。

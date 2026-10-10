@@ -63,6 +63,29 @@ MoneyPrinterTurbo a des records de première place toutes langues en mai et sept
 
 [MiroFish](https://github.com/666ghj/MiroFish), du même auteur que BettaFish, compte environ 77.5k étoiles dans le [profil observé](https://github.com/666ghj). Le [bilan](https://linux.do/t/topic/1697717) mentionne le soutien de Shanda dès le développement, puis l'investissement et l'incubation. Étudier BettaFish pour le démarrage individuel, MiroFish pour le transfert de réputation et de ressources.
 
+## Couverture complétée : dix cas supplémentaires
+
+La première édition listait quatorze projets mais seulement quatre cas autonomes. Cette mise à jour ajoute les dix autres en conservant les dates des étoiles et les limites des preuves. La couverture complète concerne cette étude, pas tous les succès de GitHub.
+
+| Projet | Périmètre | Leçon à examiner |
+| --- | --- | --- |
+| [BettaFish](../cases/bettafish.md) | Origine individuelle ; indices continentaux | Bilans étayés par des résultats |
+| [PDFMathTranslate](../cases/pdfmathtranslate.md) | Origine individuelle ; indices continentaux | Démonstrations et relais éditorial |
+| [BongoCat](../cases/bongocat.md) | Origine individuelle ; indices continentaux | Créations des utilisateurs et supports de mise à jour |
+| [Claude Code Router](../cases/claude-code-router.md) | Origine individuelle ; indices continentaux | Besoin complémentaire autour d’un outil populaire |
+| [CC Switch](../cases/cc-switch.md) | Compte individuel ; localisation continentale non vérifiée | Configuration graphique, versions et retours |
+| [MoneyPrinterTurbo](../cases/moneyprinterturbo.md) | Compte individuel ; localisation continentale non vérifiée | Résultats finis et workflows adaptables |
+| [Prompt Optimizer](../cases/prompt-optimizer.md) | Compte individuel ; localisation continentale non vérifiée | Comparaison des résultats et accès d’essai |
+| [TradingAgents-CN](../cases/tradingagents-cn.md) | Compte individuel ; localisation continentale non vérifiée | Localisation du workflow et attribution amont |
+| [LLaMA-Factory](../cases/llama-factory.md) | Origine individuelle ; indices continentaux | Exemples pratiques et support durable |
+| [MiroFish](../cases/mirofish.md) | Projet ultérieur avec incubation | Récit entre produits et réputation existante |
+| [Cherry Studio](../cases/cherry-studio.md) | Petite équipe | Premier usage et organisation des contributeurs |
+| [XiaoZhi AI](../cases/xiaozhi-esp32.md) | Écosystème matériel soutenu par une entreprise | Makers, tutoriels et démonstrations partenaires |
+| [MinerU](../cases/mineru.md) | Comparaison institutionnelle / équipe | Ressources d’intégration en aval |
+| [DeepSeek-R1](../cases/deepseek-r1.md) | Comparaison institutionnelle / équipe | Essai, évaluation et rapport coordonnés |
+
+**CC Switch** ajoute la présentation Linux Do de l’auteur et des versions historiques. Le titre du fil a été modifié pour une version ultérieure : la date initiale ne date pas cette sortie. **MoneyPrinterTurbo** ajoute un bilan de l’auteur ; **TradingAgents-CN** demande de distinguer la licence mixte actuelle. Diffusion et localisation sont des questions séparées ; consulter chaque cas pour les sources et l’attribution encore inconnue.
+
 ## Quatre parcours individuels
 
 ### BettaFish
